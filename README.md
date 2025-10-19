@@ -1,28 +1,38 @@
+# 🎮 The Adventures of Cleiton - 2D Python Game
 
-# Jogo 2D feito em Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-375BD2?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Sobre o projeto
-O projeto do jogo foi feito por três alunos do **IF Sudeste MG - Campus Rio Pomba**, sendo eles: **Heitor Pereira Pinto, Natan de Souza Oliveira, João Victor Lana**. O jogo foi um trabalho escolar do 
-**Curso Técnico Integrado em Informática**, onde tinhamos que elaborar um jogo e apresentá-los aos professores da disciplina de Algoritmos(**Bianca Portes de Castro e Lucas Grassano Lattari**). A ideia do trabalho, era um jogo
-simples, apenas com textos, mas a gente quis fazer um jogo mais elaborado, com gráficos e tudo mais, então fizemos o jogo em 2D **"As Aventuras de Cleiton"**.
+## About the Project
+This game project was created by three students from **IF Sudeste MG - Campus Rio Pomba**: **Heitor Pereira Pinto, Natan de Souza Oliveira, and João Victor Lana**.  
 
-## Sobre o jogo
-O jogo se baseia na **"Odisseia"** de Homero, onde **Cleiton** tenta voltar para sua terra natal Errijota, mas antes de embarcar, Cleiton discute com o Rei dos Mares, **Poseidon**, e enfrenta várias aventuras durante 
-aproxidamente 20 anos até chegar em sua terra natal **Errijota**.
+The game was a school assignment for the **Integrated Technical Course in Computer Science**, where we had to design a game and present it to the course instructors (**Bianca Portes de Castro and Lucas Grassano Lattari**).  
 
-## Bibliotecas utilizadas
-Para a construção do jogo em python, utilizamos as seguintes bibliotecas:
+The original idea was a simple text-based game, but we decided to make it more elaborate with graphics and animations, resulting in the 2D game **"The Adventures of Cleiton"**.
 
-- **Pygame:** Utilizamos o pygame para basicamente construir toda a interface gráfica e música do jogo, desde o menu ao fim.
+---
 
-- **Webbrowser:** Utilizamos o Webbrowser para a exibição de todas as cutscenes do jogo.
+## About the Game
+The game is inspired by **Homer's "Odyssey"**, where **Cleiton** tries to return to his homeland, Errijota.  
 
-- **Random:** Utilizamos o Random para o sorteio dos efeitos sonoros do Ciclope.
+Before embarking, Cleiton argues with the King of the Seas, **Poseidon**, and faces various adventures over approximately 20 years until he finally reaches his homeland **Errijota**.
 
-- **Math:** Utilizamos o Math para fazer o Ciclope seguir o Cleiton para tentar matá-lo.
+---
 
-## Observação:
+## Libraries Used
+We used the following Python libraries to build the game:
 
-- O jogo não tem o intuito de lucrar com o projeto, foi apenas um trabalho acadêmico no qual gostamos muito e decidimos compartilhar ele aqui no GitHub.
+- **Pygame:** To create the entire graphical interface and game music, from the menu to the ending.  
+- **Webbrowser:** To display all the cutscenes.  
+- **Random:** To generate random sound effects for the Cyclops.  
+- **Math:** To make the Cyclops follow Cleiton in an attempt to defeat him.  
 
-### Espero que gostem do projeto!!!
+---
+
+## Note
+The game is not intended for profit; it was purely an academic project that we enjoyed creating and decided to share here on GitHub.  
+
+---
+
+### 🎉 We hope you enjoy the project!!!
