@@ -1,7 +1,7 @@
 # 🎮 The Adventures of Cleiton - 2D Python Game
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-375BD2?style=for-the-badge&logo=blender&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Pixel%20Art-FF6F61?style=for-the-badge&logo=itch-io&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## About the Project
